@@ -5,4 +5,6 @@ wunderground.com to APRS Weather Station
 ================================================================================
 - รันผ่านไฟล์ .py โดยตรงเลยก็ได้ โดยตั้งค่าต่าง ๆ ใน config.ini ก่อนการรัน (แต่ต้องลง Python)
 - หากไม่มี Python หรือเน้นง่าย ๆ ให้ใช้ตัว .exe แทน โดยตั้งค่าต่าง ๆ ใน config.ini ก่อนการเปิดโปรแกรม
-![Alt text](wu2aprs.png?raw=true)
+![Alt text](screenshots/wu2aprs_1.png?raw=true)
+![Alt text](screenshots/wu2aprs_2.png?raw=true)
+![Alt text](screenshots/wu2aprs_3.png?raw=true)
