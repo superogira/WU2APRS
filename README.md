@@ -2,12 +2,12 @@
 wunderground.com to APRS Weather Station
 
 ## **การใช้งาน**
-- จะต้องมีสถานีตรวจอากาศบนเว็บ  [wunderground.com](https://wunderground.com) ก่อน เพราะต้องใช้ในการสร้าง API เพื่อดึงข้อมูลมา จึงจะสามารถใช้งานได้ (สามารถสร้างสถานีตรวจอากาศง่าย ๆ ด้วย arduino กับบอร์ด esp8266 หรือ esp32 ก็ได้)
+- จะต้องมีสถานีตรวจอากาศบนเว็บ [wunderground.com](https://wunderground.com) ก่อน เพราะต้องใช้ในการสร้าง API เพื่อดึงข้อมูลมา จึงจะสามารถใช้งานได้ (สามารถสร้างสถานีตรวจอากาศง่าย ๆ ด้วย arduino กับบอร์ด esp8266 หรือ esp32 ก็ได้)
 - รันผ่านไฟล์ .py โดยตรงเลยก็ได้ โดยตั้งค่าต่าง ๆ ใน config.ini ก่อนการรัน (แต่ต้องลง Python)
 - หากไม่มี Python หรือเน้นง่าย ๆ ให้ใช้ตัว .exe แทน โดยตั้งค่าต่าง ๆ ใน config.ini ก่อนการเปิดโปรแกรม
 
 ## **Usage**
-You must first have a weather station on **wunderground.com** to generate an API key for fetching data. (You can easily create a weather station using an Arduino with an ESP8266 or ESP32 board).
+You must first have a weather station on [wunderground.com](https://wunderground.com) to generate an API key for fetching data. (You can easily create a weather station using an Arduino with an ESP8266 or ESP32 board).
 
 ---
 
