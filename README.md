@@ -31,3 +31,10 @@ If you don't have Python or prefer a simpler method, use the `.exe` file instead
 ![Alt text](screenshots/wu2aprs_2.png?raw=true)
 ![Alt text](screenshots/wu2aprs_3.png?raw=true)
 ![Alt text](screenshots/wu2aprs_4.png?raw=true)
+
+---
+
+- หากสถานีตรวจอากาศของคุณสามารถเข้าหน้าเว็บ http://device_ip/record.html ได้ (ส่วนใหญ่จะเป็นอุปกรณ์ของ NicetyWeather) จะสามารถตั้งค่า source mode = local ได้ ซึ่งทำให้ไม่จำเป็นต้องดึงข้อมูลจาก wunderground และไม่ต้องต่อ Internet ทำงานเป็นแบบ Off Grid ไปเลยก็ได้
+- If your weather station has a local web interface accessible at http://<device_ip>/record.html (which is common for devices from NicetyWeather), you can set the source_mode = local.
+This allows the program to pull data directly from your device on the local network. It removes the need to fetch data from Wunderground and does not require an internet connection, enabling fully off-grid operation.
+![Alt text](screenshots/wu2aprs_5.png?raw=true)
