@@ -17,7 +17,7 @@ You must first have a weather station on [wunderground.com](https://wunderground
 
 ### **Running with Python**
 
-You can run the script directly using the `.py` file. Please configure the settings in `config_2.1.ini` before running. (Requires Python to be installed).
+You can run the script directly using the `.py` file. Please configure the settings in `config_2.3.ini` before running. (Requires Python to be installed).
 
 ---
 
